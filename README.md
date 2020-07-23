@@ -1,4 +1,4 @@
 # Workshop3
-first web app
+My first web application - CRUD type. No frontend so far.
 
-start with index.html in webapp/user
+Start with index.html in webapp/user
